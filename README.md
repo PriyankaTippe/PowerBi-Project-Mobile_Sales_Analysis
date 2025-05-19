@@ -34,6 +34,7 @@ Average Price per Unit: ₹40.11K
 🏷 Brand Performance Comparison in sales and transactions
 
 🧩 **Features :**
+
 Dynamic filters for:
 
 Mobile Model
@@ -51,6 +52,7 @@ Map visualization for regional sales
 Bar, pie, and line charts for trends and comparisons
 
 🛠 **Tools & Technologies :**
+
 Microsoft Power BI
 
 DAX for custom calculations
